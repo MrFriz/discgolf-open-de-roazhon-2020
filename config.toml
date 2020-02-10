@@ -1,7 +1,6 @@
 baseURL = "http://mrfriz.fr/discgolf-open-de-roazhon-2020"
 languageCode = "fr-fr"
 title = "Open de Roazhon 2020"
-theme = "ezhil"
 
 copyright = "© Copyright notice"
 
