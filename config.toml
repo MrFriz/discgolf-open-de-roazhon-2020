@@ -57,19 +57,19 @@ url = "/"
 weight = 1
 
 [[menu.main]]
-name = "News"
-url = "/posts"
-weight = 2
-
-[[menu.main]]
 name = "À Propos"
-url = "/page/a-propos"
+url = "/a-propos"
 weight = 3
 
 [[menu.main]]
 name = "Livret Joueur"
-url = "/page/livret-joueur"
+url = "/livret-joueur"
 weight = 4
+
+[[menu.main]]
+name = "Le parcours"
+url = "/le-parcours"
+weight = 5
 
 # [[menu.main]]
 # name = "Tags"
