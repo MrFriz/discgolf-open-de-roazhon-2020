@@ -14,7 +14,7 @@ La carte générale est disponible sur UDisc (Parcours de la Prévalaye, layout 
 
 # Généralités
 
- - __Tous les chemins sans exception sont OB (et au-delà aussi)__
+ - __Tous les chemins sans exception sont OB (et au-delà)__
  - __Tous les lancers depuis le même lie ont lieu immédiatement__ (ex. ReTee sur les traversées d'OB du 10 et du 14)
 
 # Trou par trou
