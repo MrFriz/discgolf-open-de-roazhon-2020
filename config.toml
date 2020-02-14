@@ -1,5 +1,6 @@
 baseURL = "https://open-de-roazhon-2020.now.sh/"
 languageCode = "fr-fr"
+defaultContentLanguage = "fr"
 title = "Open de Roazhon 2020"
 theme = "ezhil"
 
@@ -56,10 +57,6 @@ name = "Home"
 url = "/"
 weight = 1
 
-[[menu.main]]
-name = "À Propos"
-url = "/a-propos"
-weight = 3
 
 [[menu.main]]
 name = "Livret Joueur"
@@ -70,6 +67,12 @@ weight = 4
 name = "Le parcours"
 url = "/le-parcours"
 weight = 5
+
+
+[[menu.main]]
+name = "À Propos"
+url = "/a-propos"
+weight = 6
 
 # [[menu.main]]
 # name = "Tags"

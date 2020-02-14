@@ -11,9 +11,11 @@ L’open de Roazhon est un tournoi PDGA/FFFD C-Tier qui se déroulera le 28 et 2
 
 ## Sommaire
 
- 1. Le tournoi
-    - Directeur de tournois
-    - 
+ 1. [Le tournoi](#le-tournoi)
+    - [Format](#format)
+ 2. [Inscriptions](#inscriptions)
+    - [Licence temporaire](#licence-temporaire)
+ 3. [Programme](#programme)
 
 
 # Le tournoi
@@ -30,9 +32,6 @@ conditions météorologiques… etc.
 
 Directeur de tournoi
 : Grégoire Audoux
-
-Co directeur de tournoi
-: Fabien Tripoteau
 
 ### Format
 2 manches de 18 trous « shotgun » le samedi et une ronde « golf-start » le dimanche plus une mort subite pour déterminer le cas échéant le vainqueur dans chaque catégorie
