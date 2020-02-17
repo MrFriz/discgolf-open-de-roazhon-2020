@@ -65,7 +65,7 @@ weight = 4
 
 [[menu.main]]
 name = "Le parcours"
-url = "/le-parcours"
+url = "/parcours"
 weight = 5
 
 
