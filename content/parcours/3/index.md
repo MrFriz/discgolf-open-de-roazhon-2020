@@ -7,7 +7,7 @@ number: 3
 weight: 3
 par: 3
 summary: 'OB gauche droite et long'
-cover: './map.jpg'
+cover: './map.svg'
 draft: false
 ---
 

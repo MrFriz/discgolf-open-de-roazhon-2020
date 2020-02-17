@@ -6,14 +6,14 @@ distance: 60m
 number: 4
 weight: 4
 par: 3
-summary: ''
-cover: './map.jpg'
+summary: 'HAZARD autour des 2 "îles"'
+cover: './map.svg'
 draft: false
 ---
 
-Le trou n° 4 présente 2 "île" successives entourées de HAZARD. Tout lancer en dehors de c'est 2 "île" est sujet aux  règles HAZARD.
+Le trou n° 4 présente 2 "îles" successives entourées de HAZARD. Tout lancer en dehors de ces 2 "îles" est sujet aux  règles HAZARD.
 
-Une dropzone __optionnelle__ est présente. Une fois le premier depuis le tee effectuer il est possible à tout moment de se rendre sur la dropzone avec un coup de pénalité comme toujours les pénalités ne se cumulent pas (hazard & dropzone)
+Une dropzone __optionnelle__ est présente. Après le premier lancer, il est possible de se rendre sur la dropzone _optionel_ en ajoutant un coup de pénalité. Comme toujours, les pénalités ne se cumulent pas (hazard & dropzone)
 
 
 
