@@ -12,26 +12,26 @@ La carte générale est disponible sur UDisc (Parcours de la Prévalaye, layout 
 
 __TLDR;__ 
 
-[#1 par3 70m](./1/) ~ 
-[#2 par3 80m](./2/) ~ 
-[#3 par3 95m](./3/) ~ 
-[#4 par3 60m](./4/) ~ 
-[#5 par3 55m](./5/) ~ 
-[#6 par4 130m](./6/)
+[#1 par3 70m](/parcours/1/) ~ 
+[#2 par3 80m](/parcours/2/) ~ 
+[#3 par3 95m](/parcours/3/) ~ 
+[#4 par3 60m](/parcours/4/) ~ 
+[#5 par3 55m](/parcours/5/) ~ 
+[#6 par4 130m](/parcours/6/)
 
-[#7 par3 120m](./7/) ~ 
-[#8 par5 260m](./8/) ~ 
-[#9 par4 180m](./9/) ~ 
-[#10 par3 85m](./10/) ~ 
-[#11 par3 115m](./11/) ~ 
-[#12 par4 170m](./12/)
+[#7 par3 120m](/parcours/7/) ~ 
+[#8 par5 260m](/parcours/8/) ~ 
+[#9 par4 180m](/parcours/9/) ~ 
+[#10 par3 85m](/parcours/10/) ~ 
+[#11 par3 115m](/parcours/11/) ~ 
+[#12 par4 170m](/parcours/12/)
 
-[#13 par3 70m](./13/) ~ 
-[#14 par3 115m](./14/) ~ 
-[#15 par3 90m](./15/) ~ 
-[#16 par4 170m](./16/) ~ 
-[#17 par3 80m](./17/) ~ 
-[#18 par3 60m](./18/)
+[#13 par3 70m](/parcours/13/) ~ 
+[#14 par3 115m](/parcours/14/) ~ 
+[#15 par3 90m](/parcours/15/) ~ 
+[#16 par4 170m](/parcours/16/) ~ 
+[#17 par3 80m](/parcours/17/) ~ 
+[#18 par3 60m](/parcours/18/)
 
 -------------
 
