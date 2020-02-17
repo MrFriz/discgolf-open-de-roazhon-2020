@@ -6,10 +6,10 @@ distance: 58m
 number: 1
 weight: 1
 par: 3
-summary: 'OB gauche, droite et long'
+summary: 'OB à gauche, a droite et long'
 cover: './map.jpg'
 draft: false
 ---
 
-- Chemin a gauche et au délà OB
-- Enclos long/doite OB
+- Chemin à gauche et au-delà OB.
+- Enclos  OB à droite au long.
