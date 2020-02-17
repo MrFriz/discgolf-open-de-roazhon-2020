@@ -11,9 +11,9 @@ cover: './map.jpg'
 draft: false
 ---
 
-Le trou n° 4 présente 2 "île" succèsive entourer de [hazard][]. Tout lancer en dehort de c'est 2 "île" suis les règles du [hazard][].
+Le trou n° 4 présente 2 "île" successives entourées de HAZARD. Tout lancer en dehors de c'est 2 "île" est sujet aux  règles HAZARD.
 
-Une drop zone __optionelle__ est présente. Une fois le premier depuis le tee effectuer il est possible a tout moment de se rendre sur la dropzone avec un coup de pénalité comme toujour les pénalitée ne se cumule pas (hazard & dropzone)
+Une dropzone __optionnelle__ est présente. Une fois le premier depuis le tee effectuer il est possible à tout moment de se rendre sur la dropzone avec un coup de pénalité comme toujours les pénalités ne se cumulent pas (hazard & dropzone)
 
 
 

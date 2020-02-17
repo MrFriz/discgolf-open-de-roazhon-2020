@@ -3,8 +3,26 @@
 {{ partial "header.html" . }}
 
 <body>
-	<div class="container wrapper list">
+	<div class="container wrapper list" style="position: relative;">
+
 		{{ partial "head.html" . }}
+
+		<aside class="tldr">
+			<strong>TLDR;</strong>
+			<ul>
+				{{- range sort .Data.Pages ".Params.number" "asc" -}}
+				{{- if (in (.Site.Params.excludedTypes | default (slice "page")) .Type) -}}
+				{{- else -}}
+				<li>
+					<a href="{{ .RelPermalink }}">
+						#{{.Params.number}} - par {{ .Params.par }} - {{ .Params.distance }}
+					</a>
+
+				</li>
+				{{- end -}}
+				{{- end -}}
+			</ul>
+		</aside>
 
 		{{ if isset .Data "Term" }}
 		<h1>Entries tagged - "{{ .Data.Term }}"</h1>
@@ -12,6 +30,7 @@
 		<h1 class="page-title">{{ .Title }}</h1>
 		{{ end }}
 
+		
 
 		{{ .Content }}
 
@@ -19,8 +38,9 @@
 		<table class="holes">
 			<thead>
 				<td>#</td>
-				<td>Par</td>
-				<td>Dist</td>
+				<td>par</td>
+				<td>dist.</td>
+				<td></td>
 			</thead>
 			<tbody>
 				{{- range sort .Data.Pages ".Params.number" "asc" -}}
@@ -30,6 +50,7 @@
 					<td><a href="{{ .RelPermalink }}">{{.Title}}</a></td>
 					<td>{{ .Params.par }}</td>
 					<td>{{ .Params.distance }}</td>
+					<td> {{ .Params.summary }} </td>
 
 				</tr>
 				{{- end -}}
