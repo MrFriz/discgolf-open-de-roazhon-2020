@@ -6,7 +6,7 @@ distance: 95m
 number: 3
 weight: 3
 par: 3
-summary: ''
+summary: 'OB gauche droite et long'
 cover: './map.jpg'
 draft: false
 ---

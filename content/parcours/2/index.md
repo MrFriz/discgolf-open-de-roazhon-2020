@@ -6,7 +6,7 @@ distance: 80m
 number: 2
 weight: 2
 par: 3
-summary: ''
+summary: 'Double mandatory. OB gauche, droite et long'
 cover: './map.jpg'
 draft: false
 ---
