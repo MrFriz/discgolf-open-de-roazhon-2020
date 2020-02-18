@@ -6,9 +6,10 @@ distance: 170m
 number: 12
 weight: 12
 par: 4
-summary: ''
+summary: 'RAS'
 cover: './map.svg'
 draft: false
+version: '2020-02-18'
 ---
 
-
+- Mare hors jeux loin derrière la corbeille sur la droite.

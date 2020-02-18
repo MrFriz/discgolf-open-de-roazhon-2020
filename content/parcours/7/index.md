@@ -6,9 +6,14 @@ distance: 120m
 number: 7
 weight: 7
 par: 3
-summary: ''
+summary: 'OB à gauche (et long)'
 cover: './map.svg'
 draft: false
+version: '2020-02-18'
 ---
+
+__⚠️ Corbeille surélevée__
+
+ - Le sentier à gauche est hors jeux (attention au décroché derrière la corbeille)
 
 

@@ -6,9 +6,10 @@ distance: 90m
 number: 15
 weight: 15
 par: 3
-summary: ''
+summary: 'OB à droite'
 cover: './map.svg'
 draft: false
+version: '2020-02-18'
 ---
 
-
+- Le chemin à droite et au-delà est hors jeux.

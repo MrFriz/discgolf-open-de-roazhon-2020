@@ -43,3 +43,22 @@ img.hole-details {
     /* padding: 1em; */
     border: 1px solid grey;
 }
+
+.sponsors {
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+}
+
+.sponsors img {
+    width: 14em;
+}
+
+.container.list .meta {
+    padding-left: 5px;
+    margin-top: 10px;
+    font-size: 0.725rem;
+    color: #999;
+    margin-bottom: 4px;
+}

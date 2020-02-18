@@ -9,6 +9,9 @@ par: 3
 summary: 'OB gauche droite et long'
 cover: './map.svg'
 draft: false
+version: '2020-02-18'
 ---
 
-
+ - L'enclos a droite ainsi que la mare est hors jeux
+ - Le chemin a gauche et au dela est hors jeux
+ - Derière la corbeille (au delà des arbre), le chemin et au delà est hors jeux

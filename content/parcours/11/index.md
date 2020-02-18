@@ -6,9 +6,10 @@ distance: 115m
 number: 11
 weight: 11
 par: 3
-summary: ''
+summary: 'OB mare'
 cover: './map.svg'
 draft: false
+version: '2020-02-18'
 ---
 
-
+ - Zone hors jeux autour de la mare. ⚠️ La zone a été agrandie pour le tournoi.
