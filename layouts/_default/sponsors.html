@@ -8,55 +8,22 @@
 
 		<div class="post-header">
 			<h1 class="title">{{ .Title }}</h1>
-			{{ if .Params.version }}
-            <div class="meta">Version &mdash; {{ .Params.version }}</div>
-            {{ end}}
+			<!-- <div class="meta">Posted at &mdash; {{ dateFormat "Jan 2, 2006" .Date }}{{ if .Draft }} <span
+					class="draft-label">DRAFT</span> {{ end }}</div> -->
 
-			<div class="hole-info">
-
-				<div class="prev">
-
-
-					{{with .Page.Next  }}
-					<a href="{{.RelPermalink}}">⬅️ #{{.Params.number}} </a>
-					{{end}}
-
-				</div>
-
-				<div class="next">
-					{{with .Page.Prev  }}
-					<a href="{{.RelPermalink}}"> #{{.Params.number}} ➡️</a>
-
-					{{end}}
-				</div>
-				<div class="info">
-
-					<table>
-						<thead>
-							<tr>
-								<td> # </td>
-								<td> Par </td>
-								<td title="Distance"> Dist. </td>
-
-							</tr>
-						</thead>
-						<tbody>
-							<tr>
-								<td> {{ .Params.number }}</td>
-								<td> {{ .Params.par }} </td>
-								<td> {{ .Params.distance }} </td>
-							</tr>
-						</tbody>
-					</table>
-				</div>
-			</div>
-		</div>
+	
 
 		<div class="markdown parcours hole-details">
 			{{ .Content }}
 		</div>
 
-		<img class="hole-details" src="{{.Params.cover}}" alt="Carte du trou">
+		<div class="sponsors">
+			<img src="./mrfriz.jpg" alt="MrFriz Logo">
+			<img src="./rennes.png" alt="Ville de Rennes Logo">
+			<img src="./pdga_verticallogo_rgb_web.png" alt="PDGA Logo">
+			<img src="./fffd.png" alt="FFFD Logo">
+			<img src="./lfdb.jpg" alt="LFDB Logo">
+		</div>
 
 		<div class="post-tags">
 			{{ if ne .Type "page" }}

@@ -6,9 +6,11 @@ distance: 130m
 number: 6
 weight: 6
 par: 4
-summary: ''
+summary: "TO BE DEFINED pour l'ODR2020"
 cover: './map.svg'
 draft: false
+version: '2020-02-18'
 ---
 
 
+*TO BE DEFINED pour l'ODR2020*

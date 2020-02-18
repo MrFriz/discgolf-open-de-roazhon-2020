@@ -6,9 +6,11 @@ distance: 180m
 number: 9
 weight: 9
 par: 4
-summary: ''
+summary: 'OB à droite et à gauche'
 cover: './map.svg'
 draft: false
+version: '2020-02-18'
 ---
 
-
+- L’enclos à droite est hors jeux.
+- Le chemin à gauche (au-delà de la haie) et au-delà est hors jeux.

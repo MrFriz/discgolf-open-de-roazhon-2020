@@ -1,13 +1,13 @@
 ---
 title: "Livret Joueur"
 date: 2020-02-05T13:34:18+01:00
-version: 2020.02.10
+version: 2020.02.18
 draft: false
 ---
 
 L’open de Roazhon est un tournoi PDGA/FFFD C-Tier qui se déroulera le 28 et 29 mars sur le parcours de discgolf de la Prévalaye à Rennes
 
-![Image de couverture](/cover.jpg)
+![Image de couverture](/affiche.jpg)
 
 ## Sommaire
 
@@ -21,11 +21,11 @@ L’open de Roazhon est un tournoi PDGA/FFFD C-Tier qui se déroulera le 28 et 2
 # Le tournoi
 
 L’Open de Roazhon se déroulera le week-end du 28-29 mars 2020 à Rennes sur le parcours de la Prévalaye
-Les inscriptions sont ouvertes a tout licencié compétition discgolf FFFD et personne s’acquittant d’une licence temporaire FFFD
+Les inscriptions sont ouvertes à tout licencié compétition discgolf FFFD et personne s’acquittant d’une licence temporaire FFFD
 
-L’Open de Roazhon 2020 est un tournoi PDGA C-Tier organisé par le club MrFriz
-Il pourra accueillir 72 participants 
-=> [Inscription sur discgolf metrix](https://discgolfmetrix.com/1155967) validé par paiement.
+L’Open de Roazhon 2020 est un tournoi PDGA C-Tier organisé par le club MrFriz. Il pourra accueillir 72 participants 
+
+=> [Inscription sur discgolf metrix](https://discgolfmetrix.com/1155967), validé par paiement.
 
 Les joueurs inscrits devront confirmer leur présence au QG au plus tard à 8 h le samedi. Passer ce délai il ne sera pas possible de joueur et les frais d’inscription ne seront pas rembourser.
 L’organisateur se réserve le droit de modifier le parcours avant ou pendant l’événement en fonction de l’affluence, des
@@ -34,9 +34,10 @@ conditions météorologiques… etc.
 L'organisation du tournoi répond aux conditions d'organisation stipulées dans l'annexe 9 "Règlement des compétitions de Disc Golf" du règlement intérieur FFFD ainsi qu’aux dernières règles du jeu PDGA en vigueur.
 
 Liens utiles:
+
  - [Page discgolf metrix](https://discgolfmetrix.com/1155967)
  - [Événement facebook]()
- - [open-de-roazhon-2020.now.sh](https://open-de-roazhon-2020.now.sh)
+ - [livret joueur & parcours](https://open-de-roazhon-2020.now.sh)
 
 Directeur de tournoi
 : Grégoire Audoux #87461 - <openderoazhon2020@gregoire-audoux.fr>
@@ -68,7 +69,10 @@ Les 3 manches sont concernées. Si plusieurs joueurs font un ace, la somme sera 
 L'inscriptions a lieu sur discgolfmetrix. Elle n'est validée qu'après :
 
 1. Le paiement des droits d'inscription.
-2. la réception d'une attestation de licence FFFD en cours de vélite ou des documents nécessaires à la création d'une licence temporaire le cas échéant.
+2. La réception d'une attestation de licence FFFD en cours de validité ou des documents nécessaires à la création d'une licence temporaire le cas échéant.
+
+
+__Le lien d'inscription : [Open de Roazhon 2020 sur discgolf metrix](https://discgolfmetrix.com/1155967)__
 
 
 ## Licence temporaire

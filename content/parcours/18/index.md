@@ -6,9 +6,11 @@ distance: 60m
 number: 18
 weight: 18
 par: 3
-summary: ''
+summary: 'OB à droite et à gauche'
 cover: './map.svg'
 draft: false
+version: '2020-02-18'
 ---
 
-
+- Le chemin à gauche et au-delà est hors jeux
+- l'enclos à droite est hors jeux
