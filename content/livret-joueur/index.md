@@ -65,27 +65,29 @@ Les 3 manches sont concernées. Si plusieurs joueurs font un ace, la somme sera 
 
 # Inscriptions
 
-Les inscriptions ont lieu sur discgolfmetrix. Elle n'est validée qu'après
-1. Le paiement des droits d'inscription a MrFriz
-2. la réception d'une attestation de licence FFFD en cours de vélite ou des documents nécessaires à la création d'une licence temporaire le cas échéant
+L'inscriptions a lieu sur discgolfmetrix. Elle n'est validée qu'après :
+
+1. Le paiement des droits d'inscription.
+2. la réception d'une attestation de licence FFFD en cours de vélite ou des documents nécessaires à la création d'une licence temporaire le cas échéant.
 
 
 ## Licence temporaire
 
 Pour créer une licence temporaire, il est impératif de transmettre au DT :
-1. certificat médical de non-contre-indication à la pratique du discgolf en compétition
-2. scan d’une photo d’identité
-3. date et lieu de naissance
-4. adresse postale
-5. et d'avoir ajouté le montant de la licence lors du paiement des droits d'inscription. 
+
+1. Un certificat médical de non-contre-indication à la pratique du discgolf en compétition.
+2. Un scan d’une photo d’identité.
+3. Votre date et lieu de naissance.
+4. Votre adresse postale.
+5. ... et d'avoir ajouté le montant de la licence lors du paiement des droits d'inscription (5€50). 
 
 ## Tarif d'inscription
 
 MPO
-: 30 €, trophées et payout
+: 15 €, trophées et payout
 
 FA1/MA1
-: 10 €, trophées g
+: 5 €, trophées
 
 # Programme
 
