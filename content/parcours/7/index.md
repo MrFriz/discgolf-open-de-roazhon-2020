@@ -7,7 +7,7 @@ number: 7
 weight: 7
 par: 3
 summary: ''
-cover: './map.jpg'
+cover: './map.svg'
 draft: false
 ---
 
