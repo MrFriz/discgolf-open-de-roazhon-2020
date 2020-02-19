@@ -74,6 +74,13 @@ name = "À Propos"
 url = "/a-propos"
 weight = 6
 
+
+[[menu.main]]
+name = "Discgolfmetrix"
+url = "https://discgolfmetrix.com/1155967&view=info"
+weight = 7
+
+
 # [[menu.main]]
 # name = "Tags"
 # url = "/tags"
