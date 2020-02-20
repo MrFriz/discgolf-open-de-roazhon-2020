@@ -1,6 +1,6 @@
 ---
 title: le Parcours
-version: '2020-02-18'
+version: '2020-02-20'
 ---
 
 
@@ -17,7 +17,6 @@ Le parcours est plutôt long avec de la marche entre les trou... et très humide
 # Généralités
 
  - __Tous les chemins et au-delà sont hors jeux__
- - __Tous les lancers depuis le même lie ont lieu immédiatement__ (ex. ReTee sur les traversées d'OB du 10 et du 14)
 
 # Trou par trou 
 > Par 60 - 2020m
