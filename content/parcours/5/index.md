@@ -9,7 +9,7 @@ par: 3
 summary: "TO BE DEFINED pour l'ODR2020"
 cover: './map.svg'
 draft: false
-version: '2020-02-18'
+version: 2020.02.18
 ---
 
 *TO BE DEFINED pour l'ODR2020*

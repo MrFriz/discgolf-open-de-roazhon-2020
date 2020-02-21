@@ -9,7 +9,7 @@ par: 4
 summary: 'OB à droite et à gauche'
 cover: './map.svg'
 draft: false
-version: '2020.02.21'
+version: 2020.02.21
 ---
 
 - L’enclos à droite est hors limites.

@@ -9,7 +9,7 @@ par: 3
 summary: 'OB à « droite » et DZ'
 cover: './map.svg'
 draft: false
-version: '2020.02.21'
+version: 2020.02.21
 ---
 
 - L'enclos est hors limites

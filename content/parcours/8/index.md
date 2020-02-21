@@ -9,7 +9,7 @@ par: 5
 summary: 'OB à droite, à gauche et long'
 cover: './map.svg'
 draft: false
-version: '2020.02.21'
+version: 2020.02.21
 ---
 
 Le « gros » par 5 avec une corbeille surélevé.
