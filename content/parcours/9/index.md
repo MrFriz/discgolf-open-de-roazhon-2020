@@ -9,8 +9,8 @@ par: 4
 summary: 'OB à droite et à gauche'
 cover: './map.svg'
 draft: false
-version: '2020-02-18'
+version: '2020.02.21'
 ---
 
-- L’enclos à droite est hors jeux.
-- Le chemin à gauche (au-delà de la haie) et au-delà est hors jeux.
+- L’enclos à droite est hors limites.
+- Le chemin à gauche (au-delà de la haie) et au-delà est hors limites.
