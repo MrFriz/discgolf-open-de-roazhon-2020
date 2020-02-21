@@ -9,7 +9,7 @@ par: 4
 summary: 'RAS'
 cover: './map.svg'
 draft: false
-version: '2020-02-18'
+version: '2020.02.21'
 ---
 
-- Mare hors jeux loin derrière la corbeille sur la droite.
+- Mare hors limites loin derrière la corbeille sur la droite.

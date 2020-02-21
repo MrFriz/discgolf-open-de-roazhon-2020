@@ -9,8 +9,8 @@ par: 3
 summary: 'OB à « droite » et DZ'
 cover: './map.svg'
 draft: false
-version: '2020-02-18'
+version: '2020.02.21'
 ---
 
-- L'enclos est hors jeux
+- L'enclos est hors limites
 - Une drop zone _optionelle_ se trouve sur le départ débutant

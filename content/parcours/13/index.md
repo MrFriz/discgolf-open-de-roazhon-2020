@@ -9,8 +9,8 @@ par: 3
 summary: 'OB à droite'
 cover: './map.svg'
 draft: false
-version: '2020-02-18'
+version: '2020.02.21'
 ---
 
-- Le chemin sur la droite (au-delà des arbres) et au-delà est hors jeux.
-- La mare sur la gauche (long) est hors jeux.
+- Le chemin sur la droite (au-delà des arbres) et au-delà est hors limites.
+- La mare sur la gauche (long) est hors limites.

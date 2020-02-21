@@ -9,11 +9,11 @@ par: 3
 summary: 'OB à gauche (et long)'
 cover: './map.svg'
 draft: false
-version: '2020-02-18'
+version: '2020.02.21'
 ---
 
 __⚠️ Corbeille surélevée__
 
- - Le sentier à gauche est hors jeux (attention au décroché derrière la corbeille)
+ - Le sentier à gauche est hors limites (attention au décroché derrière la corbeille)
 
 
