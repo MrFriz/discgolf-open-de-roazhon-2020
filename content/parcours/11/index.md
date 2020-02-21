@@ -9,7 +9,7 @@ par: 3
 summary: 'OB mare'
 cover: './map.svg'
 draft: false
-version: '2020.02.21'
+version: 2020.02.21
 ---
 
  - Zone hors limites autour de la mare. ⚠️ La zone a été agrandie pour le tournoi.

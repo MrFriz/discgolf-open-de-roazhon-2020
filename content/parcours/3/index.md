@@ -9,7 +9,7 @@ par: 3
 summary: 'OB gauche droite et long'
 cover: './map.svg'
 draft: false
-version: '2020.02.21'
+version: 2020.02.21
 ---
 
  - L'enclos a droite ainsi que la mare est hors limites

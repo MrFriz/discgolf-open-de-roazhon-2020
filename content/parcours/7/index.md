@@ -9,7 +9,7 @@ par: 3
 summary: 'OB à gauche (et long)'
 cover: './map.svg'
 draft: false
-version: '2020.02.21'
+version: 2020.02.21
 ---
 
 __⚠️ Corbeille surélevée__

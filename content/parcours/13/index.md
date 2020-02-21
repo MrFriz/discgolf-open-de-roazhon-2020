@@ -9,7 +9,7 @@ par: 3
 summary: 'OB à droite'
 cover: './map.svg'
 draft: false
-version: '2020.02.21'
+version: 2020.02.21
 ---
 
 - Le chemin sur la droite (au-delà des arbres) et au-delà est hors limites.
