@@ -21,7 +21,7 @@ paginate = 10
 
 [params]
     # Blog subtitle which appears below blog title. Supports markdown.
-    subtitle = "Tournois de discgolf PDGA/FFFD C-Tier le 28-29 mars 2020 sur le parcours de la Prévalaye"
+    subtitle = "Tournois de discgolf PDGA/FFFD C-Tier le 17-18 octobre 2020 sur le parcours de la Prévalaye"
 
     # Content types which are included in home page recent posts list.
     mainSections = ["posts", "page"]
