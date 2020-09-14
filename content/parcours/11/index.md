@@ -6,7 +6,7 @@ distance: 115m
 number: 11
 weight: 11
 par: 3
-summary: 'OB mare'
+summary: 'Mare OB'
 cover: './map.svg'
 draft: false
 version: 2020.02.21

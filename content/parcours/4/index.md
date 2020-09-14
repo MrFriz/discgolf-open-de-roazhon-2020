@@ -6,7 +6,7 @@ distance: 60m
 number: 4
 weight: 4
 par: 3
-summary: 'HAZARD autour des 2 "îles"'
+summary: '2 "îles" entourer de HAZARD'
 cover: './map.svg'
 draft: false
 version: 2020.02.18
