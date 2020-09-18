@@ -13,4 +13,4 @@ version: 2020.02.18
 ---
 
  - Le terrain de foot est hors limites
- - Le chemin a droite et au delà est hors limite 
+ - Le chemin à droite et au-delà est hors limite 

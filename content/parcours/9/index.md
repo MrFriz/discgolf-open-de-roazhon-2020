@@ -12,5 +12,6 @@ draft: false
 version: 2020.02.21
 ---
 
-- L’enclos à droite est HAZARD.
-- La haie a gauche est hors limite.
+
+- L’enclos à droite est une zone _HAZARD_.
+- Une ligne hors limite longe la haie de gauche (la haie et au delà est hors limite).

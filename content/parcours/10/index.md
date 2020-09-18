@@ -13,4 +13,4 @@ version: 2020.02.21
 ---
 
 - L'enclos est hors limites
-- Une drop zone _optionelle_ se trouve sur le départ débutant
+- Une drop zone _optionelle_ se trouve sur le départ débutant.

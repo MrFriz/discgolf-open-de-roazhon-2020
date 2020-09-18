@@ -13,4 +13,4 @@ version: 2020.02.21
 ---
 
 - Le chemin sur la droite (au-delà des arbres) et au-delà est hors limites.
-- La mare sur la gauche au loins est hors limites.
+- La mare sur la gauche au loin est hors limites.

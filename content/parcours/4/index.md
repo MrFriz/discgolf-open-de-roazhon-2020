@@ -14,7 +14,7 @@ version: 2020.02.18
 
 Le trou n° 4 présente 2 "îles" successives entourées de HAZARD. Tout lancer en dehors de ces 2 "îles" est sujet aux  règles HAZARD.
 
-Une dropzone __optionnelle__ est présente. Après le premier lancer, il est possible de se rendre sur la dropzone en ajoutant un coup de pénalité. Comme toujours, les pénalités classiques ne se cumulent pas (hazard & dropzone)
+Une dropzone __optionnelle__ est présente. Après le premier lancer, il est possible de se rendre sur la dropzone en ajoutant un coup de pénalité. Comme toujours, les pénalités classiques ne se cumulent pas (hazard & drop zone)
 
 
 

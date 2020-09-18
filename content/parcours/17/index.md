@@ -12,6 +12,6 @@ draft: false
 version: 2020.02.21
 ---
 
-- Une ligne hors limites est tracé environ 10mètre après la corbeille.
+- Une ligne hors limites est tracée 10 mètres derrière la corbeille.
 
-- ⚠️ **Unique exception du parcours, le chemin sur lequel est situé le départ n'est pas hors limites** (mais ça vaut peut être le coup de re-tee ?)
+- ⚠️ **Le chemin sur lequel est situé le départ est hors limites**

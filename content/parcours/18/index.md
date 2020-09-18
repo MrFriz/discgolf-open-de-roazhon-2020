@@ -6,7 +6,7 @@ distance: 60m
 number: 18
 weight: 18
 par: 3
-summary: 'Chemin a gauche OB, enclos a droite OB'
+summary: 'Chemin à gauche OB, enclos à droite OB'
 cover: './map.svg'
 draft: false
 version: 2020.02.21

@@ -6,7 +6,7 @@ distance: 115m
 number: 14
 weight: 14
 par: 3
-summary: 'Enclos OB, mares OB'
+summary: 'Enclos OB'
 cover: './map.svg'
 draft: false
 version: 2020.02.21
@@ -15,7 +15,7 @@ version: 2020.02.21
 - L'enclos à droite est hors limites.
 - Les mares sur la gauche sont hors limites.
 - Le fossé est un obstacle occasionnel (casual relief).
-- Le 2e enclos à droite de la corbeille après le fossé est hors limites.
+- Le 2e enclos à droite du green est hors limites.
 
 - ⚠️ En fonction de la météo, il est très possible que les arbres à gauche soient hors limites s'ils sont inondés.
 
