@@ -6,7 +6,7 @@ distance: 58m
 number: 1
 weight: 1
 par: 3
-summary: 'OB à gauche, a droite et long'
+summary: 'Chemin et enclos OB'
 cover: './map.svg'
 draft: false
 version: 2020.02.21

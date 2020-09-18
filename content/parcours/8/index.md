@@ -15,6 +15,8 @@ version: 2020.02.21
 Le « gros » par 5 avec une corbeille surélevé.
 
  - Chemin à droite et au-delà hors limites
- - Chemin à gauche (au-delà des arbres) et au-delà hors limites
+ - Chemin à gauche (au-delà des arbres) hors limites
+ - Les buissons sur la droite de la corbeille sont hors limite
+ - Une ligne hors limite 7 mètres derrière la corbeille
 
- - ⚠️ Derrière la corbeille, la zone hors limites sera rapprochée de la corbeille, en particulier sur la droite
+ - ⚠️ Spoteur obligatoire pour vérifier que personne ne se trouve derrière la corbeille.

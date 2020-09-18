@@ -13,3 +13,5 @@ version: 2020.02.18
 ---
 
 *TO BE DEFINED pour l'ODR2020*
+
+Il y aura probablement une ligne OB quelque part, on réfléchit encore à la meilleure configuration pour un tournoi sanctionné.

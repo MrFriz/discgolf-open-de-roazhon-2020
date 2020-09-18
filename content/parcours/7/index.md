@@ -6,7 +6,7 @@ distance: 120m
 number: 7
 weight: 7
 par: 3
-summary: 'OB à gauche (et long)'
+summary: 'Chemin à gauche et long OB'
 cover: './map.svg'
 draft: false
 version: 2020.02.21
