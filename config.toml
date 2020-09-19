@@ -1,7 +1,7 @@
 baseURL = "https://open-de-roazhon-2020.now.sh/"
 languageCode = "fr-fr"
 defaultContentLanguage = "fr"
-title = "Open de Roazhon 2020"
+title = "Open de Roazhon 2020 v2"
 theme = "ezhil"
 
 copyright = "© Copyright notice"
@@ -21,7 +21,7 @@ paginate = 10
 
 [params]
     # Blog subtitle which appears below blog title. Supports markdown.
-    subtitle = "Tournois de discgolf PDGA/FFFD C-Tier le 28-29 mars 2020 sur le parcours de la Prévalaye"
+    subtitle = "Tournois de discgolf PDGA/FFFD C-Tier le 17-18 octobre 2020 sur le parcours de la Prévalaye"
 
     # Content types which are included in home page recent posts list.
     mainSections = ["posts", "page"]
@@ -91,7 +91,7 @@ weight = 7
 [[params.social]]
 name = "Github"
 icon = "github"
-url = "https://github.com/MrFriz/discgolf-open-de-roazhon-2020"
+url = "https://github.com/genuinegreg/discgolf-open-de-roazhon-2020"
 
 [[params.social]]
 name = "Facebook"

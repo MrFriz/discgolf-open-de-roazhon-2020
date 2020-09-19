@@ -6,11 +6,11 @@ distance: 85m
 number: 10
 weight: 10
 par: 3
-summary: 'OB à « droite » et DZ'
+summary: 'Enclos OB et Drop zone'
 cover: './map.svg'
 draft: false
 version: 2020.02.21
 ---
 
 - L'enclos est hors limites
-- Une drop zone _optionelle_ se trouve sur le départ débutant
+- Une drop zone _optionelle_ se trouve sur le départ débutant.

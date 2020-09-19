@@ -6,7 +6,7 @@ distance: 90m
 number: 15
 weight: 15
 par: 3
-summary: 'OB à droite'
+summary: 'Chemin à droite OB'
 cover: './map.svg'
 draft: false
 version: 2020.02.21

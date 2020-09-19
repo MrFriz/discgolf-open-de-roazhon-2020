@@ -6,13 +6,12 @@ distance: 85m
 number: 17
 weight: 17
 par: 3
-summary: 'OB long'
+summary: 'Ligne OB après la corbeilles'
 cover: './map.svg'
 draft: false
 version: 2020.02.21
 ---
 
-- Le chemin derrière (piste cyclable au-delà des arbres) et au-delà est hors limites.
+- Une ligne hors limites est tracée 10 mètres derrière la corbeille.
 
-
-- ⚠️ **Unique exception du parcours, le chemin sur lequel est situé le départ n'est pas hors limites**
+- ⚠️ **Le chemin sur lequel est situé le départ est hors limites**
