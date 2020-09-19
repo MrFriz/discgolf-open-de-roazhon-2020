@@ -12,7 +12,7 @@ La carte générale est disponible sur UDisc et sur [Discgolf metrix (Blanc 18 -
 Une petite présentation video du parcours : https://youtu.be/tKBp-BKvxAE
 
 ### Plan général
-[![Carte du parcours](/map2.jpg)](/map.jpg)
+[![Carte du parcours](/map2.jpg)](/map2.jpg)
 
 # Généralités
 
