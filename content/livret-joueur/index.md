@@ -22,6 +22,7 @@ L’open de Roazhon est un tournoi PDGA/FFFD C-Tier qui se déroulera le 17 et 1
 
 La situation sanitaire étant ce quelle est, l'organisation et le déroulement du tournoi sera forcement un peut différente de l'habitude. Cette page sera mise à jour au fur et à mesure, toutefois nous allons-nous base sur [les recommandations de la FFFD/PDGA.](/PDGA_exigences_et_bonnes_pratiques_discgolf_durant_Covid19_FR.pdf)
 
+ - On limite le nombre d'inscription a 40 joueurs pour le moment (département en rouge et Rennes Métropole est passé au niveau 3 (sur 4) de son plan anti covid)
  - Les joueurs devront porter un masque dans les zones identifiées (proche du QG par exemple) et respecter les règles de distanciation sociale (du gel hydroalcoolique sera à disposition aux endroits stratégiques).
  - Les groupes seront annoncés vers 20h le vendredi. Les joueurs devront éviter les rassemblements non nécessaires et s'échauffer sur leur trou de départ).
  - Si les conditions météorologiques le permettent, il n'y aura pas de QG "joueur" en intérieur. 
