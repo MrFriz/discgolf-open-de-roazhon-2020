@@ -13,7 +13,7 @@ Une petite présentation video du parcours : https://youtu.be/tKBp-BKvxAE
 
 ### Plan général
 
-[![Carte générale](./map2.jpg)](./map2.jpg)
+[![Carte générale](/map2.jpg)](/map2.jpg)
 
 # Généralités
 
