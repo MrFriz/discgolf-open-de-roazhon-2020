@@ -1,7 +1,9 @@
 
 ---
 title: Application du protocole sanitaire exiger par la PDGA et la FFFD pour _l'Open de Roazhon_ les 17 et 18 octobre 2020
-version: 2020.02.21
+version: 2020.09.22
+date: 2020-09-22T13:30:00+01:00
+lastmod: 2020-09-22T13:30:00+01:00
 ---
 
 Ci-dessous nous reprenont le document officiel des [_Exigences et Bonnes Pratiques pour les activités sanctionées PDGA_](/PDGA_exigences_et_bonnes_pratiques_discgolf_durant_Covid19_FR.pdf) imposer par la FFFD.
