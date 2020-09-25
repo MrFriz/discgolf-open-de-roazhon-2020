@@ -46,18 +46,23 @@ Nous suivrons au plus près les exigences gouvernementale et fédérale
  - le protocole fédéral : https://open-de-roazhon-2020.now.sh/PDGA_exigences_et_bonnes_pratiques_discgolf_durant_Covid19_FR.pdf
  - le protocole fédéral annoté avec notre dispositif sanitaire détailler : https://open-de-roazhon-2020.now.sh/protocole_sanitaire/fffd/
 
-De manière générale
+__De manière générale__
+
  - Le tournoi a lieu en extérieur
  - Les joueurs sont invités à ne pas venir s'ils présentent des symptômes évocateurs du COVID-19 (signature d'un document à l'inscription, et confirmation orale lors de la validation d'inscription la veille du tournoi)
  - Rappel des règles sanitaires, à l'inscription, lors du meeting virtuel (2 jours avant) et a la confirmation d'inscription (la veille)
  - Limitation a 45 joueurs (moitié moins que d'habitude) + 2-3 bénévoles non-joueur
  - Port du masque obligatoire sur les lieux de rassemblement et dès qu'une distance de 2m ne peut être établie sur le parcours avec le groupe (de 4 joueurs max)
 
-Sur le parcours de discgolf et pendant le jeu :
-Les joueurs sont répartis en groupe de 3 ou 4 et doivent respecter 2m de distance à tout moment. Si cette distance ne peut être respectée, le port de masque est obligatoire. Sur certaine aire de départ et corbeille identifier ne présentant pas beaucoup d'espace, il est fortement conseillé au joueur soit de porter leur masque avant d'arriver sur l'air de départ soit d'y aller chacun leur tour.
-La répartition des groupes est effectuée la veille. Les joueurs doivent se présenter directement sur l'air de départ qui leur est assigné (chaque groupe commence sur un trou différent du parcours 18 trous) en évitant les rassemblements non nécessaires.
+__Sur le parcours de discgolf et pendant le jeu :__
 
-Dans la cour de l'écocentre (zone de rassemblement) :
+ - Les joueurs sont répartis en groupe de 3 ou 4 et doivent respecter 2m de distance à tout moment. 
+ - Si cette distance ne peut être respectée, le port de masque est obligatoire. 
+ - Sur certaine aire de départ et corbeille identifier ne présentant pas beaucoup d'espace, il est fortement conseillé au joueur soit de porter leur masque avant d'arriver sur l'air de départ soit d'y aller chacun leur tour.
+ - La répartition des groupes est effectuée la veille. Les joueurs doivent se présenter directement sur l'air de départ qui leur est assigné (chaque groupe commence sur un trou différent du parcours 18 trous) en évitant les rassemblements non nécessaires.
+
+__Dans la cour de l'écocentre (zone de rassemblement) :__
+
  - Voir le plan ici : https://open-de-roazhon-2020.now.sh/protocole_sanitaire/plan_qg_covid/
  - Il y a deux portails. Une entrer et une sortit avec a chaque fois un panneau d'information COVID et du gel hydroalcoolique à disposition.
  - Le port du masque est obligatoire dans la cour à moins d'être assis et entrain de manger
