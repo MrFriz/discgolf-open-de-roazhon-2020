@@ -63,7 +63,7 @@ __Sur le parcours de discgolf et pendant le jeu :__
 __Dans la cour de l'écocentre (zone de rassemblement) :__
 
  - Voir le plan ici : https://open-de-roazhon-2020.now.sh/protocole_sanitaire/plan_qg_covid/
- - Il y a deux portails. Une entrer et une sortit avec a chaque fois un panneau d'information COVID et du gel hydroalcoolique à disposition.
+ - Il y a deux portails. Une entrée et une sortie avec à chaque fois un panneau d'information COVID et du gel hydroalcoolique à disposition.
  - Le port du masque est obligatoire dans la cour à moins d'être assis et entrain de manger
  - La "zone joueur" est uniquement en extérieur, avec 6 barnums et  un préau pour se protéger des éléments.
  - Les toilettes sont en intérieur avec un sens de circulation et un panneau d'information + du gel hydroalcoolique à disposition a l'entrée et la sortie
