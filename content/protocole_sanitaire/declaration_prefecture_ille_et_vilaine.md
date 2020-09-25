@@ -1,7 +1,7 @@
 ---
 title: "Déclaration d'un événement - une manifestation / Préfecture d'Ille-et-Vilaine-arrondissement de Rennes - COVID-19"
 date: 2020-09-25T09:28:53+02:00
-draft: true
+draft: false
 ---
 
 > Brouillon pour la déclaration d'un événement à la préfecture d'Ille et vilaine 
