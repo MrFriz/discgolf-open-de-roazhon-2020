@@ -1,4 +1,3 @@
-
 ---
 title: Protocole sanitaire exiger par la PDGA et la FFFD annoté
 version: 2020.09.22
