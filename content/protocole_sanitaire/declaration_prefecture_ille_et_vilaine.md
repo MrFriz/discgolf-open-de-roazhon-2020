@@ -20,9 +20,9 @@ Tournoi régional de discgolf
 Organisation d'un tournoi de discgolf régional sur le parcours de discgolf de la Prévalaye (dans le parc de la Prévalaye).
 Le tournoi a lieu sur 2 jours le samedi 17 et le dimanche 18 octobre.
 Le tournoi se déroule en 3 manches, deux samedi et une dimanche.
-Pendant ces manches les joueurs sont répartis sur tout le parcours en groupe de 3 ou 4.
-Le samedi midi les joueurs peuvent pique-nique dans la cour de l'Écocentre de la Taupinais sous un préhaut et 6 barnums.
-Le dimanche après la dernière manche des trophées seront remis aux gagnants
+Pendant ces manches, les joueurs sont répartis sur tout le parcours en groupe de 3 ou 4.
+Le samedi midi, les joueurs peuvent pique-niquer dans la cour de l'Écocentre de la Taupinais sous un préau et 6 barnums.
+Le dimanche, après la dernière manche, des trophées seront remis aux gagnants
 	
 	
 
