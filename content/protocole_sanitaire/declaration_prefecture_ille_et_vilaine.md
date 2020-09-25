@@ -1,7 +1,7 @@
 
 
 ---
-title: "# Déclaration d'un événement - une manifestation / Préfecture d'Ille-et-Vilaine-arrondissement de Rennes - COVID-19"
+title: "Déclaration d'un événement - une manifestation / Préfecture d'Ille-et-Vilaine-arrondissement de Rennes - COVID-19"
 date: 2020-09-25T09:28:53+02:00
 draft: true
 ---
@@ -9,36 +9,36 @@ draft: true
 > Brouillon pour la déclaration d'un événement à la préfecture d'Ille et vilaine 
 
 #### Nom de l'association, du syndicat, du parti, du groupement, de la collectivité
-	MrFriz Ultimate Rennes
+MrFriz Ultimate Rennes
 
 #### Type d'événement ou de rassemblement organisé *
-	Tournoi régional de discgolf
+Tournoi régional de discgolf
 
 
 ## 4. Informations sur la manifestation
 
 ### Objet de l'événement ou de la manifestation *
 
-	Organisation d'un tournoi de discgolf régional sur le parcours de discgolf de la Prévalaye (dans le parc de la Prévalaye).
-	Le tournoi a lieu sur 2 jours le samedi 17 et le dimanche 18 octobre.
-	Le tournoi se déroule en 3 manches, deux samedi et une dimanche.
-	Pendant ces manches les joueurs sont répartis sur tout le parcours en groupe de 3 ou 4.
-	Le samedi midi les joueurs peuvent pique-nique dans la cour de l'Écocentre de la Taupinais sous un préhaut et 6 barnums.
-	Le dimanche après la dernière manche des trophées seront remis aux gagnants
+Organisation d'un tournoi de discgolf régional sur le parcours de discgolf de la Prévalaye (dans le parc de la Prévalaye).
+Le tournoi a lieu sur 2 jours le samedi 17 et le dimanche 18 octobre.
+Le tournoi se déroule en 3 manches, deux samedi et une dimanche.
+Pendant ces manches les joueurs sont répartis sur tout le parcours en groupe de 3 ou 4.
+Le samedi midi les joueurs peuvent pique-nique dans la cour de l'Écocentre de la Taupinais sous un préhaut et 6 barnums.
+Le dimanche après la dernière manche des trophées seront remis aux gagnants
 	
 	
 
 ### Date de la manifestation et heure du rassemblement *
 
 ### Lieu de rassemblement *
-	Le parcours de discgolf de la Prévalaye et la cour de l'Écocentre de la Taupinais dans le parc de la Prévalaye
+Le parcours de discgolf de la Prévalaye et la cour de l'Écocentre de la Taupinais dans le parc de la Prévalaye
 
 
 
 
 ### Mise en place d'installations (tentes, enceintes, gradins, scènes, manèges, etc.)
 
-	Dans la cour de l'écocentre, 6 barnums seront installés pour que les joueurs puissent s'abriter des éléments
+Dans la cour de l'écocentre, 6 barnums seront installés pour que les joueurs puissent s'abriter des éléments
 
 ### Protocole sanitaire
 Nous suivrons au plus près les exigences gouvernementale et fédérale 
