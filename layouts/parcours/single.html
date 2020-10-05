@@ -17,14 +17,14 @@
 				<div class="prev">
 
 
-					{{with .Page.Next  }}
+					{{with .Page.NextInSection  }}
 					<a href="{{.RelPermalink}}">⬅️ #{{.Params.number}} </a>
 					{{end}}
 
 				</div>
 
 				<div class="next">
-					{{with .Page.Prev  }}
+					{{with .Page.PrevInSection  }}
 					<a href="{{.RelPermalink}}"> #{{.Params.number}} ➡️</a>
 
 					{{end}}
