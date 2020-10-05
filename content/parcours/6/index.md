@@ -6,7 +6,7 @@ distance: 130m
 number: 6
 weight: 6
 par: 4
-summary: "Ligne OB à gauche puis Double mandatory à l'entrée des bois"
+summary: "Double mandatory à l'entrée des bois"
 cover: './map.svg'
 draft: false
 version: 2020.10.05
