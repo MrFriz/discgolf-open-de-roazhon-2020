@@ -111,6 +111,7 @@ lastmod = ["lastmod", ":fileModTime", ":default"]
 [markup.goldmark.renderer]
 unsafe = true
 
+[markup]
 [markup.tableOfContents]
 endLevel = 3
 ordered = false
