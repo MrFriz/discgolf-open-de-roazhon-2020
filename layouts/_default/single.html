@@ -9,9 +9,13 @@
 			<h1 class="title">{{ .Title }}</h1>
 			<!-- <div class="meta">Posted at &mdash; {{ dateFormat "Jan 2, 2006" .Date }}{{ if .Draft }} <span class="draft-label">DRAFT</span> {{ end }}</div> -->
             {{ if .Params.version }}
-            <div class="meta">Version &mdash; {{ .Params.version }}</div>
+			<div class="meta">Version &mdash; {{ .Params.version }} </div>
+			{{ else if .Lastmod }}
+			<div class="meta">Version &mdash; {{.Lastmod.Format "2006.01.02"}} </div>
             {{ end}}
-        </div>
+		</div>
+		
+		{{ partial "partials/toc.html" . }}
 
 		<div class="markdown">
 			{{ .Content }}

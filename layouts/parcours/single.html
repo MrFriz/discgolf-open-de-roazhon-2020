@@ -6,6 +6,24 @@
 	<div class="container wrapper post">
 		{{ partial "head.html" . }}
 
+
+		<aside class="tldr">
+			<strong>TLDR;</strong>
+			<ul>
+				{{- range sort .CurrentSection.Pages ".Params.number" "asc" -}}
+				{{- if (in (.Site.Params.excludedTypes | default (slice "page")) .Type) -}}
+				{{- else -}}
+				<li>
+					<a href="{{ .RelPermalink }}">
+						#{{.Params.number}} - par {{ .Params.par }} - {{ .Params.distance }}
+					</a>
+
+				</li>
+				{{- end -}}
+				{{- end -}}
+			</ul>
+		</aside>
+
 		<div class="post-header">
 			<h1 class="title">{{ .Title }}</h1>
 			{{ if .Params.version }}

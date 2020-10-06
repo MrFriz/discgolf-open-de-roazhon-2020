@@ -7,7 +7,7 @@ version: 2020.02.21
 L'open de Roazhon 2020 se déroulera sur le parcours permanent de discgolf de la Prévalaye à Rennes.
 
 Le tout nouveau layout 18 corbeilles (par 60) sera utilisé tel quel a peut de chose près. 
-La carte générale est disponible sur UDisc et sur [Discgolf metrix (Blanc 18 - par 60)](https://discgolfmetrix.com/?u=map&ID=17722).
+La carte générale est disponible sur UDisc et sur [Discgolf metrix (Open de Roazhon 2020)](https://discgolfmetrix.com/?u=map&ID=20705).
 
 Une petite présentation video du parcours : https://youtu.be/tKBp-BKvxAE
 

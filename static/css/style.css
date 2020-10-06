@@ -1,5 +1,7 @@
 aside.tldr {
-    position: absolute;
+    top: 0;
+    float: left;
+    position: sticky;
     margin-left: -240px;
     width: 200px;
     text-align: right;
@@ -7,11 +9,67 @@ aside.tldr {
     display: none;
 }
 
+
+
+
 @media only screen and (min-width: 1100px) {
     aside.tldr {
         display: block;
     }
 }
+
+
+.toc {
+    width: 200px;
+    text-align: left;
+    font-size: .7em;
+    display: block;
+}
+
+
+
+.toc header a {
+    display: none;
+}
+
+.toc ul {
+    counter-reset: section;
+    list-style-type: none;
+    margin: 1em 0 0;
+}
+
+.toc li {
+    margin: 0 0 1em;
+}
+
+.toc li:before {
+    counter-increment: section;
+    content: counters(section, ".") " - ";
+}
+
+
+
+@media only screen and (min-width: 1300px) {
+    .toc {
+        display: block;
+
+        float: left;
+        top: 0;
+        position: sticky;
+        margin-left: -240px;
+    }
+
+    .toc header {
+        display: inline;
+        padding-top: 1em;
+        font-size: 1.4em;
+    }
+
+    .toc header a {
+        display: inline;
+    }
+}
+
 
 .hole-info {
     display: flex;

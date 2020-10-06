@@ -72,13 +72,18 @@ weight = 5
 [[menu.main]]
 name = "À Propos"
 url = "/a-propos"
+weight = 7
+
+[[menu.main]]
+name = "Infos pratiques"
+url = "/infos"
 weight = 6
 
 
 [[menu.main]]
 name = "Discgolfmetrix"
 url = "https://discgolfmetrix.com/1476129"
-weight = 7
+weight = 8
 
 
 # [[menu.main]]
@@ -97,6 +102,12 @@ url = "https://github.com/genuinegreg/discgolf-open-de-roazhon-2020"
 name = "Facebook"
 icon = "facebook"
 url = "https://www.facebook.com/Mr-Friz-Disc-Golf-Rennes-347602635615270"
+
+[frontmatter]
+lastmod = ["lastmod", ":fileModTime", ":default"]
+
+[markup.goldmark.renderer]
+unsafe = true
 
 # Enable tags.
 [taxonomies]

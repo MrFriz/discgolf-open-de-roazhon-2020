@@ -50,7 +50,9 @@
 				{{- if (in (.Site.Params.excludedTypes | default (slice "page")) .Type) -}}
 				{{- else -}}
 				<tr>
-					<td><a href="{{ .RelPermalink }}">{{.Title}}</a></td>
+					<td style="white-space: nowrap;"><a href="{{ .RelPermalink }}">
+						#{{.Params.number}}
+					</a></td>
 					<td>{{ .Params.par }}</td>
 					<td>{{ .Params.distance }}</td>
 					<td> {{ .Params.summary }} </td>
