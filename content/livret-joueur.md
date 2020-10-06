@@ -1,4 +1,3 @@
-
 ---
 title: "Livret Joueur"
 date: 2020-02-04T13:34:18+01:00

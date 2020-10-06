@@ -1,8 +1,9 @@
-
 ---
 title: "Infos pratiques"
 toc: true
 ---
+
+Petit récap des infos pratiques pour le tournoi
 
 ## Accès
 
