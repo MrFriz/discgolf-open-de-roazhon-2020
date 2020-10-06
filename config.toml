@@ -19,6 +19,8 @@ pygmentscodefencesguesssyntax = true
 # Number of posts to show in recent posts list (Optional). Defaults to 10.
 paginate = 10
 
+enableGitInfo = true
+
 [params]
     # Blog subtitle which appears below blog title. Supports markdown.
     subtitle = "Tournois de discgolf PDGA/FFFD C-Tier le 17-18 octobre 2020 sur le parcours de la Prévalaye"
@@ -108,6 +110,11 @@ lastmod = ["lastmod", ":fileModTime", ":default"]
 
 [markup.goldmark.renderer]
 unsafe = true
+
+[markup.tableOfContents]
+endLevel = 3
+ordered = false
+startLevel = 2
 
 # Enable tags.
 [taxonomies]
