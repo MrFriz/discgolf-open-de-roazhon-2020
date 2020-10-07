@@ -61,6 +61,11 @@ weight = 1
 
 
 [[menu.main]]
+name = "COVID-19"
+url = "/covid-19"
+weight = 3
+
+[[menu.main]]
 name = "Livret Joueur"
 url = "/livret-joueur"
 weight = 4
@@ -106,7 +111,7 @@ icon = "facebook"
 url = "https://www.facebook.com/Mr-Friz-Disc-Golf-Rennes-347602635615270"
 
 [frontmatter]
-lastmod = ["lastmod", ":fileModTime", ":default"]
+lastmod = ["lastmod", ":default"]
 
 [markup.goldmark.renderer]
 unsafe = true
