@@ -1,15 +1,13 @@
 ---
 title: "Trou 6"
-date: 2020-02-17T10:36:42+01:00
-lastmod: 2020.10.05+01
-distance: 130m
+distance: 135m
 number: 6
 weight: 6
 par: 4
 summary: "Double mandatory à l'entrée des bois"
 cover: './map.svg'
 draft: false
-version: 2020.10.05
 ---
 
  - Un "double mandatory" est présent à l'entrée des sous-bois.
+ - La dropzone se trouve legerement à doite de la fenètre a 60m de la corbeille

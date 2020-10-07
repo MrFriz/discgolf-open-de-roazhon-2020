@@ -1,15 +1,11 @@
 ---
 title: "Trou 7"
-date: 2020-02-17T10:36:45+01:00
-lastmod: 2020-02-17T10:36:45+01:00
-distance: 120m
+distance: 116m
 number: 7
 weight: 7
 par: 3
 summary: 'Chemin à gauche et long OB'
 cover: './map.svg'
-draft: false
-version: 2020.02.21
 ---
 
 __⚠️ Corbeille surélevée__

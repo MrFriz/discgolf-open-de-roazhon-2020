@@ -1,6 +1,5 @@
 ---
 title: "Trou 1"
-lastmod: 2020-10-05T00:00:01+01
 distance: 80m
 number: 1
 weight: 1

@@ -1,20 +1,16 @@
 ---
 title: "Trou 4"
-date: 2020-02-17T10:36:20+01:00
-lastmod: 2020-10-05+01
-distance: 60m
+distance: 62m
 number: 4
 weight: 4
 par: 3
 summary: '2 "îles" entourer de HAZARD'
 cover: './map.svg'
-draft: false
-version: 2020.10.05
 ---
 
 Le trou n° 4 présente 2 "îles" successives entourées de HAZARD. Tout lancer en dehors de ces 2 "îles" est sujet aux  règles HAZARD.
 
-Une dropzone __optionnelle__ est présente. Tout lancer terminant dans la zone HAZARD peut à l'option supplémentaire de rejouer de la drop zone.
+Une dropzone __optionnelle__ est présente (21m). Tout lancer terminant dans la zone HAZARD peut à l'option supplémentaire de rejouer de la drop zone.
 
 __⚠️__ avec une zone _HAZARD_ il n'est pas possible de s'éloigner d'un mètre de la ligne comme sur un hors limite classique, __il faut absolument jouer de là ou le disque s'arette__ qu'il soit in, out, sur la ligne, etc. (ou jouer de la dropzone si le disque est out bien sûr)
 
