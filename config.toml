@@ -106,7 +106,7 @@ icon = "facebook"
 url = "https://www.facebook.com/Mr-Friz-Disc-Golf-Rennes-347602635615270"
 
 [frontmatter]
-lastmod = [":git", "lastmod", "date", "publishDate"]
+lastmod = [":git", ":default"]
 
 [markup.goldmark.renderer]
 unsafe = true
