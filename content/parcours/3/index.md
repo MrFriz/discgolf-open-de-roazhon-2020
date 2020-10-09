@@ -6,6 +6,7 @@ weight: 3
 par: 3
 summary: 'Chemin gauche et long OB. Enclos gauche OB. Mare OB'
 cover: './map.svg'
+lastmod: 2020-10-08
 ---
 
  - L'enclos à droite est hors limites

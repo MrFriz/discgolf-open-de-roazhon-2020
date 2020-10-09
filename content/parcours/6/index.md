@@ -7,6 +7,7 @@ par: 4
 summary: "Double mandatory à l'entrée des bois"
 cover: './map.svg'
 draft: false
+lastmod: 2020-10-08
 ---
 
  - Un "double mandatory" est présent à l'entrée des sous-bois.

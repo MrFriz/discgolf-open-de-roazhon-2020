@@ -9,7 +9,7 @@ par: 3
 summary: 'Enclos OB'
 cover: './map.svg'
 draft: false
-version: 2020.02.21
+lastmod: 2020-09-14
 ---
 
 - L'enclos à droite est hors limites.

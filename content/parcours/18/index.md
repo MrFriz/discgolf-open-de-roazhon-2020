@@ -7,6 +7,7 @@ par: 3
 summary: 'Chemin à gauche OB, enclos à droite OB'
 cover: './map.svg'
 draft: false
+lastmod: 2020-10-08
 ---
 
 - Le chemin à gauche et au-delà est hors limites

@@ -3,9 +3,12 @@ title: "Livret Joueur"
 date: 2020-02-04T13:34:18+01:00
 toc: true
 draft: false
+lastmod: 2020-10-08
 ---
 
 L’open de Roazhon est un tournoi PDGA/FFFD C-Tier qui se déroulera le 17 et 18 octobre sur le parcours de discgolf de la Prévalaye à Rennes
+
+<!--more-->
 
 ![Image de couverture](/affiche.jpg)
 

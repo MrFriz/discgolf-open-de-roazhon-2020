@@ -19,14 +19,14 @@ pygmentscodefencesguesssyntax = true
 # Number of posts to show in recent posts list (Optional). Defaults to 10.
 paginate = 10
 
-enableGitInfo = true
+enableGitInfo = false
 
 [params]
     # Blog subtitle which appears below blog title. Supports markdown.
     subtitle = "Tournois de discgolf PDGA/FFFD C-Tier le 17-18 octobre 2020 sur le parcours de la Prévalaye"
 
     # Content types which are included in home page recent posts list.
-    mainSections = ["posts", "page"]
+    mainSections = ["news", "page", "parcours"]
 
     # Content types which are excludes Disqus comments.
     disableDisqusTypes = ["page"]
