@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html>
+<html lang="{{ .Site.Language }}">
 {{ partial "header.html" . }}
 <body>
 	<div class="container wrapper">
@@ -8,25 +8,29 @@
 		<img src="/affiche_v2_square.jpg" />
 		
 		<div class="recent-posts section">
-			<h2 class="section-header">
-				Articles récents
+			<h2 class="section-header" style="margin: 3em 0 1em; font-size: 1.1em;">
+				Dernières pages mises à jour
 			</h2>
 			<div class="posts">
-				{{ $pages := where .Site.RegularPages "Type" "in" .Site.Params.mainSections }}
+				{{ $pages := where .Site.RegularPages.ByLastmod.Reverse "Type" "in" .Site.Params.mainSections }}
 				{{ $paginator := .Paginate (where $pages "Params.hidden" "ne" true) }}
 				{{ range $paginator.Pages }}
 				<div class="post">
 					<!-- <div class="meta">{{ dateFormat "Jan 2, 2006" .Date }}{{ if .Draft }} <span class="draft-label">DRAFT</span> {{ end }}</div> -->
-					<a class="title" href="{{ .RelPermalink }}">{{.Title}}</a> v{{.Lastmod.Format "2006.01.02"}} &mdash;
+					<a class="title" href="{{ .RelPermalink }}">{{.Title}}</a> <small>{{.Lastmod.Format "2006.01.02"}}</small> &mdash;
 					<span class="description">
 						{{ if isset .Params "description" }}
 						{{ .Description }}
-						{{ else if gt (len .Summary) 120 }}
-						{{ slicestr .Summary 0 120 }}...
 						{{ else }}
-						{{ .Summary }}
+						{{ .Summary | plainify | safeHTML }}
 						{{ end }}
 					</span>
+					{{ if .Truncated }}
+					<!-- This <div> includes a read more link, but only if the summary is truncated... -->
+					<span>
+						<a href="{{ .RelPermalink }}"> &mdash; la suite...</a>
+					</span>
+					{{ end }}
 				</div>
 				{{ end }}
 				{{ template "partials/paginator.html" . }}

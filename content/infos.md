@@ -5,6 +5,8 @@ toc: true
 
 Petit récap des infos pratiques pour le tournoi
 
+<!--more-->
+
 ## Accès
 
 Le parcours se trouve à [l'écocentre de la Taupinais : chemin de la Taupinais, Rennes](https://goo.gl/maps/c9bpS9bUDBwbPeWKA)
