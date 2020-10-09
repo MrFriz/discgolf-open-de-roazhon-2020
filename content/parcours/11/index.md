@@ -9,7 +9,7 @@ par: 3
 summary: 'Mare OB'
 cover: './map.svg'
 draft: false
-version: 2020.02.21
+lastmod: 2020-10-08
 ---
 
  - Zone hors limites autour de la mare.

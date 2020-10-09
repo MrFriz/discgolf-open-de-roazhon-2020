@@ -1,6 +1,7 @@
 ---
 title: "Infos pratiques"
 toc: true
+lastmod: 2020-10-08
 ---
 
 Petit récap des infos pratiques pour le tournoi

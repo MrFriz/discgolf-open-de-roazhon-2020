@@ -7,6 +7,7 @@ par: 3
 summary: 'Double mandatory. Chemin à gauche & droite OB. Fossé long OB.'
 cover: './map.svg'
 draft: false
+lastmod: 2020-10-08
 ---
 
 - À gauche les jardins, le chemin et au-delà est hors limites.

@@ -7,6 +7,7 @@ par: 3
 summary: 'Enclos OB et Drop zone'
 cover: './map.svg'
 draft: false
+lastmod: 2020-10-08
 ---
 
 - L'enclos est hors limites

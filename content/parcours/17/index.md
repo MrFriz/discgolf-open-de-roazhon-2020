@@ -9,7 +9,7 @@ par: 3
 summary: 'Ligne OB après la corbeilles'
 cover: './map.svg'
 draft: false
-version: 2020.02.21
+lastmod: 2020-09-14
 ---
 
 - Une ligne hors limites est tracée 10 mètres derrière la corbeille.
