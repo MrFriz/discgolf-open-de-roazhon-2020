@@ -5,9 +5,12 @@ number: 4
 weight: 4
 par: 3
 summary: '2 "îles" entourer de HAZARD'
-cover: './map.svg'
-lastmod: 2020-10-08
+cover: './4.png'
+lastmod: 2020-10-13
 ---
+
+
+{{< imgproc "4.png" >}}
 
 Le trou n° 4 présente 2 "îles" successives entourées de HAZARD. Tout lancer en dehors de ces 2 "îles" est sujet aux  règles HAZARD.
 

@@ -9,7 +9,7 @@ L'open de Roazhon 2020 se déroulera sur le parcours permanent de discgolf de la
 Le tout nouveau layout 18 corbeilles (par 60) sera utilisé tel quel a peut de chose près. 
 La carte générale est disponible sur UDisc et sur [Discgolf metrix (Open de Roazhon 2020)](https://discgolfmetrix.com/?u=map&ID=20705).
 
-Une petite présentation video du parcours : https://youtu.be/tKBp-BKvxAE
+{{< youtube "tKBp-BKvxAE" >}}
 
 
 # Généralités
@@ -23,7 +23,9 @@ Une petite présentation video du parcours : https://youtu.be/tKBp-BKvxAE
  - Tous les enclos sont hors limite, la barrière elle-même est hors limite
  - Toutes les marre sont hors limites
     - Dans le cas où une ligne n'a pas été tracée, c'est l'eau qui est hors limite.
-       - un _casual relief_ est accordé si le disque est "dans le trou de la mare", mais n'est pas hors limite.
+       - un _casual relief_ est accordé si le disque est "dans le trou de la mare", mais n'est pas hors limite. [![Exemple OB/Relief](./water_relief_hole11.JPG)](./water_relief_hole11.JPG)) 
+
+        
        
 ### Plan général
 

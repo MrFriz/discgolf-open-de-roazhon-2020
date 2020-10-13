@@ -1,0 +1,7 @@
+
+{{ $original := .Page.Resources.GetMatch (printf "*%s*" (.Get 0)) }}
+{{ $image := $original.Fit "960x960" }}
+
+<a href="{{ $original.RelPermalink }}">
+<img src="{{ $image.RelPermalink }}" >
+</a>

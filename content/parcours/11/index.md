@@ -7,9 +7,12 @@ number: 11
 weight: 11
 par: 3
 summary: 'Mare OB'
-cover: './map.svg'
+cover: './11.png'
 draft: false
-lastmod: 2020-10-08
+lastmod: 2020-10-13
 ---
+
+
+{{< imgproc "11.png" >}}
 
  - Zone hors limites autour de la mare.

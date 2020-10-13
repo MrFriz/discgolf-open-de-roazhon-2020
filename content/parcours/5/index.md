@@ -6,10 +6,13 @@ number: 5
 weight: 5
 par: 3
 summary: "TO BE DEFINED pour l'ODR2020"
-cover: './map.svg'
+cover: './5.png'
 draft: false
-lastmod: 2020-10-08
+lastmod: 2020-10-13
 ---
+
+
+{{< imgproc "5.png" >}}
 
 *TO BE DEFINED pour l'ODR2020*
 

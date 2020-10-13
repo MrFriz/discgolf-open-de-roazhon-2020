@@ -5,10 +5,13 @@ number: 8
 weight: 8
 par: 5
 summary: 'OB à droite, à gauche et long'
-cover: './map.svg'
+cover: './8.png'
 draft: false
-lastmod: 2020-10-08
+lastmod: 2020-10-13
 ---
+
+
+{{< imgproc "8.png" >}}
 
 Le « gros » par 5 avec une corbeille surélevé.
 

@@ -5,9 +5,12 @@ number: 7
 weight: 7
 par: 3
 summary: 'Chemin à gauche et long OB'
-cover: './map.svg'
-lastmod: 2020-10-08
+cover: './7.png'
+lastmod: 2020-10-13
 ---
+
+
+{{< imgproc "7.png" >}}
 
 __⚠️ Corbeille surélevée__
 

@@ -7,10 +7,13 @@ number: 14
 weight: 14
 par: 3
 summary: 'Enclos OB'
-cover: './map.svg'
+cover: './14.png'
 draft: false
-lastmod: 2020-09-14
+lastmod: 2020-10-13
 ---
+
+
+{{< imgproc "14.png" >}}
 
 - L'enclos à droite est hors limites.
 - Les mares sur la gauche sont hors limites.

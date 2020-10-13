@@ -7,10 +7,13 @@ number: 17
 weight: 17
 par: 3
 summary: 'Ligne OB après la corbeilles'
-cover: './map.svg'
+cover: './17.png'
 draft: false
-lastmod: 2020-09-14
+lastmod: 2020-10-13
 ---
+
+
+{{< imgproc "17.png" >}}
 
 - Une ligne hors limites est tracée 10 mètres derrière la corbeille.
 

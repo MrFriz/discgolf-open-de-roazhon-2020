@@ -7,9 +7,12 @@ number: 12
 weight: 12
 par: 4
 summary: 'RAS'
-cover: './map.svg'
+cover: './12.png'
 draft: false
-lastmod: 2020-09-14
+lastmod: 2020-10-13
 ---
+
+
+{{< imgproc "12.png" >}}
 
 - Une mare hors limites loin derrière la corbeille sur la droite.
