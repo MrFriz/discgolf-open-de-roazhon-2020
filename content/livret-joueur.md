@@ -1,9 +1,10 @@
+
 ---
 title: "Livret Joueur"
 date: 2020-02-04T13:34:18+01:00
 toc: true
 draft: false
-lastmod: 2020-10-06
+lastmod: 2020-10-15
 ---
 
 L’open de Roazhon est un tournoi PDGA/FFFD C-Tier qui se déroulera le 17 et 18 octobre sur le parcours de discgolf de la Prévalaye à Rennes
@@ -57,6 +58,27 @@ Directeur de tournoi
 Les cartes de scores seront sous format numérique à cause du COVID (discgolf metrix ou PDGA live).
   
 En cas d'impossibilité technique pour un des groupes, des cartes de score papier seront à disposition. Dans ce cas, le groupe devra décider avant le round quel joueur sera chargé de la feuille de score tout au long de la manche. Toutefois, le groupe dans son ensemble est responsable du retour de la carte de score : soit sous forme de photo (envoyer par mail/SMS), soit par un retour au QG "staff" pour que le DT puisse prendre une photo de la carte de score. Une fois validé par le DT, le format numérique de la carte de score fera foi.
+
+
+### Récompenses & package
+
+__MPO__ : 
+
+Un trophée pour le vainqueur et 100% des inscriptions redistribuer au 33% meilleur joueur.  
+La remise de récompense se fera par virement après le tournoi.
+
+
+__Catégorie Amateurs__ :
+
+100% des frais d’inscription redistribuer en package et en récompense PLUS un sponsoring de Hole19 sur les récompenses.
+
+
+ - Tous les joueurs recevront un package.
+ - Le vainqueur de chaque catégorie repartira avec un trophée.
+ - les 33% meilleurs joueurs de chaque catégorie gagneront des bons d’achat hole19
+
+
+
 
 ### Mort subite
 

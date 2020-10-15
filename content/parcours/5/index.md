@@ -8,12 +8,10 @@ par: 3
 summary: "TO BE DEFINED pour l'ODR2020"
 cover: './5.png'
 draft: false
-lastmod: 2020-10-13
+lastmod: 2020-10-15
 ---
 
 
 {{< imgproc "5.png" >}}
 
-*TO BE DEFINED pour l'ODR2020*
-
-Il y aura probablement une ligne OB quelque part, on réfléchit encore à la meilleure configuration pour un tournoi sanctionné.
+ - Une ligne OB longe le fairway sur la droite.

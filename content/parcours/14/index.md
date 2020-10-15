@@ -9,7 +9,7 @@ par: 3
 summary: 'Enclos OB'
 cover: './14.png'
 draft: false
-lastmod: 2020-10-13
+lastmod: 2020-10-15
 ---
 
 
@@ -19,6 +19,5 @@ lastmod: 2020-10-13
 - Les mares sur la gauche sont hors limites.
 - Le fossé est un obstacle occasionnel (casual relief).
 - Le 2e enclos à droite du green est hors limites.
-
-- ⚠️ En fonction de la météo, il est très possible que les arbres à gauche soient hors limites s'ils sont inondés.
+- __Après un lancer hors limite une dropzone est disponible__
 

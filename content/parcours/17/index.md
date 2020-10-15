@@ -9,7 +9,7 @@ par: 3
 summary: 'Ligne OB après la corbeilles'
 cover: './17.png'
 draft: false
-lastmod: 2020-10-13
+lastmod: 2020-10-15
 ---
 
 
@@ -18,3 +18,5 @@ lastmod: 2020-10-13
 - Une ligne hors limites est tracée 10 mètres derrière la corbeille.
 
 - ⚠️ **Le chemin sur lequel est situé le départ est hors limites**
+
+- ⚠️ **Attention à bien envoyer quelqu'un sur la gauche pour vérifier qu'il n'y a personne autour de la corbeille**
