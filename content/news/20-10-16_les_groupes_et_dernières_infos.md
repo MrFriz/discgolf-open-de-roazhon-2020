@@ -1,7 +1,7 @@
 ---
 title: "Les groupes et dernières infos"
 date: 2020-10-16T19:35:07+02:00
-draft: true
+draft: false
 ---
 
 Bonsoir,
