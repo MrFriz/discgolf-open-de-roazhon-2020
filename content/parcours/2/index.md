@@ -14,6 +14,8 @@ lastmod: 2020-10-15
 {{< imgproc "2.png" >}}
 
 
+__⚠️ Accès au jardin familiaux interdit. Bien spoter pour la présence de jardinier (notament près du manda)__
+
 - Les 2 grands chênes devant la corbeille forment un double mandatory
 - Si vous raté ce mandatory une dropzone __spécifique au mandatory__ se trouve dans l'axe à 19m de la corbeille
 - À gauche les jardins, le chemin et au-delà est hors limites.
