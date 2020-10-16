@@ -22,6 +22,11 @@ J'ai fait la répartition conseillée par la PDGA, (classement par rating puis a
 Petit changement sur le livret joueur pour [le trou 9](/parcours/9), finalement la ligne OB de gauche est définie par la route et pas par la ligne prévue à l'origine
 
 
+## Info divers
+
+ - Les paneau sur le parcours ne sont pas jour, il faut [se référer au livret](/parcours) (le détail trou par tour est dispo si vous cliquer sur numero du trou)
+
+
 
 ## Les trophées
 
